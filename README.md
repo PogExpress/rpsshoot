@@ -1,0 +1,2 @@
+5/12/24 - I've been on this project for like 2 weeks and I've gotten to nowhere,
+none of my Rock Paper Scissors buttons are working and only the test button is working. Maybe it has something to do we scope or is there like a little error in it, I just really want this to work without relying on others because I am independent... also because all the tutorials that I look up on this don't even discuss the project or show the actual programming.

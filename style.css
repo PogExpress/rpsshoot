@@ -1,0 +1,39 @@
+* {
+    font-family: ubuntu;
+}
+
+score{
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+buttons {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 175px;
+    height: 175px;
+    margin: 10px 5px;
+}
+
+button#rock{
+    background-color: black;
+}
+
+button#scissors{
+    background-color: red;
+}
+
+h1{
+    text-decoration-line: underline;
+    font-size: 64px;
+    text-align: center;
+}
